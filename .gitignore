@@ -30,3 +30,4 @@ venv/
 # Any API key files
 keys.txt
 .env
+.venv 
