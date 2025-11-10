@@ -1,0 +1,32 @@
+# Python / Streamlit
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Hugging Face + cache
+~/.cache/
+*.bin
+*.pt
+*.h5
+*.ckpt
+
+# Streamlit logs and pycache
+.streamlit/
+.cache/
+
+# VSCode / IDE files
+.vscode/
+.idea/
+
+# Mac / Linux system files
+.DS_Store
+
+# Any API key files
+keys.txt
+.env
